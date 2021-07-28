@@ -1,0 +1,6 @@
+[submodule "lgtm-submodule-correct"]
+	path = lgtm-submodule-correct
+	url = https://github.com/test-org43834/lgtm-submodule-correct.git
+[submodule "lgtm-submodule-no-use"]
+	path = lgtm-submodule-no-use
+	url = https://github.com/test-org43834/lgtm-submodule-no-use.git
